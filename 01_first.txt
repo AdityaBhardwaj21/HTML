@@ -1,0 +1,11 @@
+the flexbox is the beginning of the whole concept of
+the responsive css and what it does is that this
+caters to the needs and the changes of the web page 
+across different sizes of the web page like an 
+IPAD or phone or laptop or desktop
+
+this is the beginning of the flexbox css 
+
+
+the flex mode has 2 axes the main axis is the 
+horizontal axis and the cross axis is the vertical axis

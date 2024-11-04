@@ -1,0 +1,45 @@
+html
+{
+    font-size: 5px;
+}
+h2
+{
+    font-size: 2em;
+    margin-left: 1em;
+}
+h3
+{
+    font-size: 1.5em;
+}
+p
+{
+    font-size: 1em;
+}
+article
+{
+    font-size: 15px;
+}
+button
+{
+    font-size: 1em;
+    padding: 0 1em;
+    border-radius: 0.5em;
+    background-color: blue;
+    color: white;
+}
+ul
+{
+    font-size: 1.5em;
+}
+#rems h2
+{
+    font-size: 3rem;
+}
+#rems h3
+{
+    font-size: 2rem;
+}
+#rems
+{
+    font-size: 3rem;
+}
